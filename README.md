@@ -2,7 +2,7 @@
 
 Este é um aplicativo Android desenvolvido em **Java** que funciona como um hub centralizado para diversas ferramentas úteis. O projeto foca no gerenciamento de múltiplas *Activities*, navegação via *Intents*, passagem de parâmetros e persistência de estado.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 ### 1. Menu Principal (MainActivity)
 - Ponto central de navegação para todos os módulos do aplicativo.
@@ -31,7 +31,7 @@ Este é um aplicativo Android desenvolvido em **Java** que funciona como um hub 
   - Fórmula: `Felicidade = [(Sono + Estresse) / 6] * 10`.
 - Tela de resultado com classificação de "Muito Baixa" a "Plena".
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem:** Java
 - **IDE:** Android Studio
@@ -41,13 +41,17 @@ Este é um aplicativo Android desenvolvido em **Java** que funciona como um hub 
   - Ciclo de vida da Activity (`finish()`).
   - Lógica condicional e aritmética para cálculos de saúde e bem-estar.
 
-## 📱 Como Executar
+## Como Executar
 
 1. Clone o repositório ou baixe o código fonte.
 2. Abra o projeto no **Android Studio**.
 3. Sincronize o Gradle.
 4. Execute em um emulador ou dispositivo físico com Android (API 24 ou superior recomendada).
 
-## 📄 Licença
+## Licença
 
 Este projeto foi desenvolvido para fins acadêmicos na FATEC.
+
+## Aluno
+
+Daniel Vigano da Silva
